@@ -9,10 +9,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Diogo Rodrigues da Silva
+- Matricula: 1189849
+- Proposta de projeto escolhida: Portifolio Pessoal
+- Breve descrição sobre seu projeto: Criarei uma aplicação com uma breve apresentação sobre mim, ele será responsivo para Pc e Mobile, entendendo os requisitos da atividade
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
